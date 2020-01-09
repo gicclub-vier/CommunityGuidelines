@@ -81,3 +81,5 @@ Bad behaviour from any fellow member, including those with decision-making autho
 Anyone asked to stop unacceptable behavior is expected to comply immediately. Violation of these guidelines can result in you being ask to leave an event or online space, either temporarily or for the duration of the event, or being banned from participation in spaces, or future events and activities in perpetuity. 
 
 In addition, any participants who abuse the reporting process will be considered to be in violation of these guidelines and subject to the same consequences. False reporting, especially to retaliate or exclude, will not be accepted or tolerated.
+
+A secret : If you have actually read this, please star it so we know so.
