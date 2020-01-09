@@ -56,6 +56,7 @@ Hurtful or harmful language related to:
   - Religion
   - Geographic location
   - Other attributes
+
 is not acceptable. This includes deliberately referring to someone by a gender that they do not identify with, and/or questioning the legitimacy of an individual’s gender identity. If you’re unsure if a word is derogatory, don’t use it. This also includes repeated subtle and/or indirect discrimination; when asked to stop, stop the behavior in question. 
 
 ### Unwelcome Sexual Attention or Physical Contact
